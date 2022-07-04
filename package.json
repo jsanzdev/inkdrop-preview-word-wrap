@@ -1,6 +1,6 @@
 {
   "name": "preview-word-wrap",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Enable word wrap on the preview pane",
   "styleSheets": [
     "pwordwrap.less"
