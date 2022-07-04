@@ -10,4 +10,4 @@ ipm install preview-word-wrap
 
 ## Example
 
-![Example](https://github.com/jsanzdev/inkdrop-preview-word-wrap/raw/master/docs/images/preview-word-wrap-example.png)
+![Example](https://github.com/jsanzdev/inkdrop-preview-word-wrap/raw/main/docs/images/preview-word-wrap-example.png)
