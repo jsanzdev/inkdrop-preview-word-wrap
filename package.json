@@ -1,0 +1,14 @@
+{
+  "name": "preview-word-wrap",
+  "version": "0.1.0",
+  "description": "Enable word wrap on the preview pane",
+  "styleSheets": [
+    "pwordwrap.less"
+  ],
+  "repository": "https://github.com/jsanzdev/inkdrop-preview-word-wrap",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
